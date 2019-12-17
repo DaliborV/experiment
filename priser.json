@@ -7,13 +7,13 @@
                },
                "date":"2019-11-18",
                "priceUnit":"NOK",
-               "averagePrice":               1.29125,
-               "maxPrice":               2,
+               "averagePrice":               1.25791666666667,
+               "maxPrice":               1.34,
                "minPrice":               1.19,
                "hourlyPrices":[
                     {
                          "hour":"2019-11-18T00:00:00.000",
-                         "price":                         2,
+                         "price":                         1.2,
                          "priceUnit":"NOK"
                     },
                     {
